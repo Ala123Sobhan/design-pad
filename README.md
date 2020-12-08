@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+View the project here - https://design-pad.herokuapp.com/
+
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />

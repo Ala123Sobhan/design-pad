@@ -1,4 +1,9 @@
+
+<img src="src/DesignPad.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View the project [live!](https://design-pad.herokuapp.com/)
 
 ## Available Scripts
 
